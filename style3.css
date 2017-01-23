@@ -1,0 +1,20 @@
+.txtbtn{
+	width:250px;
+	padding:10px 10px;
+	font-size:17px;
+	color:#ccc;
+	background:green;
+
+
+}
+.mainblock{
+
+	text-align: center;
+	width:400px;
+	margin:100px auto;
+	border:1px solid #ddd;
+	background: #ccc;
+	padding:10px;
+	padding-bottom: 140px;
+	padding-top:30px;
+}

@@ -1,0 +1,36 @@
+.txtinput{
+
+border-radius:5px;
+height:30px;
+width:230px;
+font-size: 17px;
+text-indent:10px;
+
+}
+
+.mainblock{
+
+width:400px;
+margin:100px auto;
+border:1px solid #ddd;
+background:#ccc;
+border-radius:5px;
+padding:15px;
+padding-bottom: 20px;
+
+}
+
+.txtbtn{
+
+	width:100px;
+	padding:5px 10px;
+	font-size:16px;
+	background:green;
+	color:#ccc;
+	font-size:17px;
+
+}
+.reg{
+
+	font-size: 17px;
+}
